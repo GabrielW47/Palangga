@@ -1,0 +1,21 @@
+button {
+    color: black;
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+}
+
+body {
+    background-color: rgb(222, 222, 222);
+    height: 200%;
+}
+
+* {
+    margin: 30;
+    padding: 20;
+}
+
+div {
+    
+    display: flex;
+    justify-content: space-around
+    
+}
